@@ -10,14 +10,34 @@
 **Prompt:**  
 Summarize the following article:
 
-"[Paste article here]"
+https://www.nationalgeographic.com/travel/article/best-hotels-mexico-city
 
-**Result:**  
-[Paste GPT's summary here]
+**Result:** 
+National Geographic’s article “10 of the best hotels in Mexico City, from style icons to neighbourhood hangouts” highlights a diverse selection of accommodations catering to various traveler preferences, from luxurious stays to budget-friendly options. ￼
+
+1. Andaz Condesa
+Located in the trendy Condesa neighborhood, Andaz Condesa offers a vibrant aesthetic with neon-lit cacti and magenta-mirrored escalators. The hotel features 213 light-filled rooms adorned with vinyl record players and papier-mâché figurines. Guests can enjoy expansive city views from the rooftop terrace, which includes a swimming pool and the Cabuya Rooftop restaurant serving seafood and dishes inspired by Tulum cuisine.  ￼
+
+2. The Red Tree House
+This charming guesthouse, set in a converted 1930s home in Condesa, is renowned for its warm hospitality. With 22 uniquely designed rooms and apartments, guests often feel like they’re staying in a friend’s home. The communal atmosphere is enhanced by art-filled living areas and a popular happy hour. A standout feature is the delicious breakfast, offering local dishes like sopes.  ￼
+
+3. Durango219
+Situated between Roma and Condesa, Durango219 is a design lover’s haven. The hotel’s exterior is crafted from pink Cantera stone, while the interiors boast 12 contemporary rooms featuring vintage furnishings and minimalist décor. A plant-lined rooftop terrace bar provides a relaxing spot for cocktails.  ￼
+
+4. Hostel Barrio Downtown
+Ideal for budget travelers, this vibrant hostel in downtown Mexico City showcases Mexican-themed décor, including comic skeletons and lucha libre masks. It offers private rooms and pod-like dorm beds with shared bathrooms. Amenities include a tour desk, glass-walled offices for digital nomads, and complimentary breakfasts featuring chilaquiles and sweet breads.  ￼
+
+5. Pug Seal Anatole France
+Located in the upscale Polanco neighborhood, this boutique hotel resides in a renovated 1940s mansion. It combines historical charm with modern amenities, offering guests a unique and luxurious experience.  ￼
+
+6. H21 Hospedaje Boutique
+Set in a 1928 house, H21 maintains its original layout while providing seven uniquely designed guest rooms. Each room offers a distinctive experience, blending historical elements with contemporary comforts.  ￼
+
+These selections reflect Mexico City’s rich tapestry of accommodations, catering to a wide range of tastes and budgets, and highlighting the city’s vibrant neighborhoods and cultural heritage.
 
 **Notes:**  
-- What was good?
-- What was missing?
+- GPT gives plenty of detail and well organized. 
+- I think it had too much detail very lengthy.
 
 ---
 
@@ -26,33 +46,35 @@ Summarize the following article:
 **Prompt:**  
 You are a professional news editor. Summarize this article in 2 sentences, focusing on the key message.
 
-"[Paste article here]"
+https://www.nationalgeographic.com/travel/article/best-hotels-mexico-city
 
 **Result:**  
-[Paste GPT's summary here]
+National Geographic’s article “10 of the best hotels in Mexico City, from style icons to neighbourhood hangouts” showcases a curated selection of accommodations that reflect the city’s dynamic blend of tradition and modernity. From the art deco-inspired Andaz Condesa and the design-centric Durango219 to the homey charm of The Red Tree House and the budget-friendly Hostel Barrio Downtown, these hotels offer diverse experiences catering to various traveler preferences and budgets.
 
 **Notes:**  
-- Was it more focused?
-- Did the role affect the tone?
+- This response was a little shorter nicer, compact and to the point
+- Giving GPT a role gives it a personal feel to the prompt response
 
 ---
 
 ## Test 3 – Instructional Prompt
 
 **Prompt:**  
-Read the article and write a summary in bullet points under 100 words.
+Read the article and write a summary in bullet points under 100 words:
 
-"[Paste article here]"
-
-**Result:**  
-[Paste GPT's summary here]
+**Result:**
+	•	The article highlights 10 of the best hotels in Mexico City, each offering a unique experience.
+	•	Andaz Condesa stands out for its colorful, modern design and rooftop pool.
+	•	The Red Tree House offers a warm, homelike atmosphere with a strong community vibe.
+	•	Durango219 appeals to design lovers with minimalist style and vintage touches.
+	•	Options range from boutique luxury to budget-friendly hostels, reflecting the city’s cultural and architectural diversity.
 
 **Notes:**  
-- Clearer? More useful?
-- Any bias or fluff?
+- This was a more clear version and very useful to the point.
 
 ---
 
 ## Conclusion
 
 Which style worked best? What would you try differently next time?
+I think the third style seems to be the best prompt giving GPT instructions and context makes the prompts much more cleaner and efficient. 
