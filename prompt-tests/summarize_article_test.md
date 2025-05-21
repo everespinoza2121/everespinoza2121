@@ -71,7 +71,7 @@ Here’s a concise bullet-point summary of the National Geographic article “10
 - **Hostel Barrio Downtown**: Budget option with colorful Mexican décor and digital nomad perks.  
 - **Pug Seal Anatole France**: Chic Polanco stay in a 1940s mansion.  
 - **H21 Boutique**: Elegant guesthouse blending historic charm with modern design.
-- 
+  
 **Notes:**  
   This was a more clear version and very useful to the point.
 
