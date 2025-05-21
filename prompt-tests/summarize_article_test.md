@@ -73,7 +73,7 @@ Here’s a concise bullet-point summary of the National Geographic article “10
 - **H21 Boutique**: Elegant guesthouse blending historic charm with modern design.
 - 
 **Notes:**  
-- This was a more clear version and very useful to the point.
+  This was a more clear version and very useful to the point.
 
 ---
 
