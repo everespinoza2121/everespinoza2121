@@ -75,6 +75,4 @@ Read the article and write a summary in bullet points under 100 words:
 ---
 
 ## Conclusion
-
-Which style worked best? What would you try differently next time?
 I think the third style seems to be the best prompt giving GPT instructions and context makes the prompts much more cleaner and efficient. 
