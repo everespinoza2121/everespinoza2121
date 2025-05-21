@@ -75,4 +75,6 @@ Read the article and write a summary in bullet points under 100 words:
 ---
 
 ## Conclusion
-I think the third style seems to be the best prompt giving GPT instructions and context makes the prompts much more cleaner and efficient. 
+## Conclusion
+
+After testing all three prompt styles, I found that the instructional/task-based prompt produced the most accurate and professional summaries. The role-based prompt added style but sometimes wandered, while the basic prompt was inconsistent. I plan to use task-driven prompts more in future tests.
