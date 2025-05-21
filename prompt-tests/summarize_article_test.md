@@ -65,15 +65,13 @@ Read the article and write a summary in bullet points under 100 words:
 **Result:**
 Here’s a concise bullet-point summary of the National Geographic article “10 of the best hotels in Mexico City, from style icons to neighbourhood hangouts”:
 
--Andaz Condesa: Trendy hotel with bold design, rooftop pool, and seafood restaurant.
--The Red Tree House: Cozy guesthouse with a homelike vibe and local breakfasts.
--Durango219: Stylish boutique hotel with minimalist rooms and rooftop bar.
--Hostel Barrio Downtown: Budget option with colorful Mexican décor and digital nomad perks.
--Pug Seal Anatole France: Chic Polanco stay in a 1940s mansion.
--H21 Boutique: Elegant guesthouse blending historic charm with modern design.
-
-Each reflects Mexico City’s blend of culture, comfort, and creativity.
-
+- **Andaz Condesa**: Trendy hotel with bold design, rooftop pool, and seafood restaurant.  
+- **The Red Tree House**: Cozy guesthouse with a homelike vibe and local breakfasts.  
+- **Durango219**: Stylish boutique hotel with minimalist rooms and rooftop bar.  
+- **Hostel Barrio Downtown**: Budget option with colorful Mexican décor and digital nomad perks.  
+- **Pug Seal Anatole France**: Chic Polanco stay in a 1940s mansion.  
+- **H21 Boutique**: Elegant guesthouse blending historic charm with modern design.
+- 
 **Notes:**  
 - This was a more clear version and very useful to the point.
 
