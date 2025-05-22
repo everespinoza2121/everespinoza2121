@@ -33,4 +33,4 @@ Each prompt file is written in Markdown (`.md`) and includes:
 - **G71 Rough Turning Cycle Prompt**
 - **G72 Finish Turning Cycle Prompt**
 
-> These tools are for real shops, real machinists, and real-world jobs — made smarter with the power of language and AI.
+> These tools are for real shops, real machinists, and real-world jobs — made smarter with the power of LLMs and AI.
