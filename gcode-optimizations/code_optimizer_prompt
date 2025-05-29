@@ -1,0 +1,55 @@
+# Prompt-Based G-code Optimizer
+
+## Scenario
+
+Use this prompt to analyze and clean up existing G-code. It identifies common inefficiencies — such as redundant retracts, duplicate rapid moves, or unnecessary tool changes — and rewrites the code for better readability and performance.
+
+---
+
+## Prompt
+
+You are a CNC code optimization assistant.
+
+Take the G-code provided and:
+- Remove redundant retracts or unnecessary rapid moves
+- Combine or streamline toolpath blocks when possible
+- Preserve important safety lines and startup codes
+- Add comments only if needed for clarity
+- Do NOT change tool numbers or major geometry unless it improves cycle time
+
+Here is the G-code to optimize:
+
+G20
+G40 G80 G99
+G97 S1000 M03
+G00 X2.0 Z0.1
+G00 X2.0 Z0.1
+G00 X2.0 Z0.0
+G01 Z-2.0 F0.01
+G00 Z0.1
+G00 X2.0 Z0.1
+M30
+
+---
+
+## Here is the Sample Output:
+
+OPTIMIZED VERSION)
+
+G20
+G40 G80 G99
+G97 S1000 M03
+G00 X2.0 Z0.1
+G01 Z-2.0 F0.01
+G00 Z0.1
+M30
+
+---
+
+## Tips
+
+- You can copy and paste any short G-code block into the prompt section and run it through ChatGPT or another LLM.
+- For best results, limit to programs under ~200 lines at first.
+- Great for daily cleanup tasks, CAM post edits, and verifying code from junior programmers.
+
+> This tool helps shops get cleaner code with fewer errors — without rewriting everything from scratch.
